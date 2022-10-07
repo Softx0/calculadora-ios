@@ -1,6 +1,5 @@
 import { Text, View } from 'react-native'
 import { styles } from '../theme/appTheme';
-import React from 'react'
 import ButtonCalculator from '../components/buttonCalculator/ButtonCalculator';
 
 const CalculatorScreen = () => {

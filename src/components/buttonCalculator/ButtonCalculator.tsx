@@ -1,5 +1,4 @@
 import { View, Text } from 'react-native'
-import React from 'react'
 import { styles } from '../../theme/appTheme'
 import IButtonCalculator from './IButtonCalculator'
 
